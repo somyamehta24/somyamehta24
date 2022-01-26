@@ -1,8 +1,10 @@
-![Somya Mehta](https://user-images.githubusercontent.com/62494153/150976742-2e2f9094-75bb-4b29-baf6-cde62988060d.png)
+![Somya-Mehta](https://user-images.githubusercontent.com/62494153/151161908-94f61445-217a-416b-8927-dda3b322eb67.gif)
+
 
 <!-- <h1 align="center">Hi 👋, I'm Somya Mehta</h1> -->
 <!-- <h3 align="center">CSE Undergrad @IIT Indore</h3> -->
 <!--<h3 align="center">
+
 
 ![image](https://drive.google.com/file/d/1LRh5TnHIK0xjQqrvfMUAY8LyIIPM3dr1/view?usp=sharing)
 </h3> -->
