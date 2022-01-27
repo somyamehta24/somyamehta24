@@ -36,8 +36,7 @@
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/c/CompetitiveSomya)
+<a href="https://www.youtube.com/c/CompetitiveSomya/videos" target="_blank" rel="noreferrer">➡️ [more videos...]</a>
 
 <!-- #### ✍ My Work
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=somyamehta24&show_icons=true&theme=radical" alt="GitHub README Stats" />
