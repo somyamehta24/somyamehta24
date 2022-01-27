@@ -35,6 +35,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How he &lpar;Tanishq Jain&rpar; grabbed an Intern at Zomato!!!](https://www.youtube.com/watch?v=MVmvNMIGDS0)
+- [How she&lpar; Niyati Totala&rpar; grabbed  Internship offers from Google, Amazon and Goldman Sachs!!](https://www.youtube.com/watch?v=F7xNKGVfQvk)
+- [Leetcode  Weekly Contest 269, &lpar;Medium&rpar;2091. Removing Minimum and Maximum From Array](https://www.youtube.com/watch?v=izgN8BIvvE4)
+- [Leetcode  Weekly Contest 269, &lpar;Easy&rpar;2089. Find Target Indices After Sorting Array](https://www.youtube.com/watch?v=wxGOn_ZcULk)
+- [Leetcode  Weekly Contest 269, &lpar;Medium&rpar;2090. K Radius Subarray Averages](https://www.youtube.com/watch?v=0HIgZmx_Cs8)
 <!-- YOUTUBE:END -->
 <a href="https://www.youtube.com/c/CompetitiveSomya/videos" target="_blank" rel="noreferrer">➡️ more videos...</a>
 <!-- ➡️ [more videos...](https://www.youtube.com/c/CompetitiveSomya) -->
